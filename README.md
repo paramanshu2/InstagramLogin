@@ -124,17 +124,3 @@ Deployment
 
 Build the project (`npm run build`) and deploy the contents of the `dist` directory to any static hosting provider (Netlify, Vercel, GitHub Pages, S3 + CloudFront, etc.). Configure rewrites to support client-side routing (serve `index.html` for unknown paths).
 
-Contributing
-------------
-
-Contributions are welcome. For larger changes, please open an issue describing the intended work. Keep PRs focused and include a short description of the change and any testing instructions.
-
-License
--------
-
-Specify your preferred license (MIT recommended). Add a `LICENSE` file to the repository.
-
-Contact
--------
-
-For questions or help, open an issue in the repository or contact the maintainer.
